@@ -20,9 +20,8 @@ In this kernel, we looked at different algorithms of keywords extraction. My per
 
 
 
-I have meen an NLP enthuziast and wanna learn more and contribute more.Thanking you
+I have meen an NLP enthusiast and wanna learn more and contribute more.Thanking you
 
-Kaggle Submission:https://www.kaggle.com/jsaha437/extract-keywords
 
 
 Resume Link:https://drive.google.com/file/d/1eYAhqOEPs9m7tEwCZT4_J-ODDDq4PFBO/view?usp=sharing
